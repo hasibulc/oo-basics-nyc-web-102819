@@ -12,6 +12,7 @@ class Shoe
   def cobble
     puts "Shoe has been repaired!"
     self.condition = 'new'
+  end
   
   
 end
